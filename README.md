@@ -262,3 +262,10 @@ Output:
     - [FBLYZE](https://github.com/isaacmg/fb_scraper). Fork (?).
 - [RSSHub](https://github.com/DIYgod/RSSHub/blob/master/lib/routes/facebook/page.js). Generates an RSS feed from Facebook pages.
 - [RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge/blob/master/bridges/FacebookBridge.php). Also generates RSS feeds from Facebook pages.
+
+
+## Probé este y está andando 
+
+pip install facebook-page-scraper
+
+Ver main2.py 
